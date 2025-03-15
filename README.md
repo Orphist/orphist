@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 ### RAG Challenge
-2025-Feb-27 i had ranked 33rd in the RAG Challenge
-https://abdullin.com/erc/
+
+2025-Feb-27 i had [ranked 33rd in the RAG Challenge](https://abdullin.com/erc/).
+
 I found out the things I need to improve is documents chunks retrivial and
 documents page reference extraction.
 Its looks like a plan.
